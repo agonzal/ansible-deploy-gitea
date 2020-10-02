@@ -1,0 +1,9 @@
+domain: cerveau.us
+gitea_name: "My Gitea Code Hosting Platform"
+gitea_fqdn: git.{{ domain }}
+gitea_db: gitea
+gitea_db_user: gitea
+gitea_version: 1.12.4
+smtp_server: smtp.{{ domain }}:25
+custom_ssh_port: 4444
+mariadb_root_password: setpasswordhere
