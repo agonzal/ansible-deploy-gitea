@@ -1,5 +1,7 @@
 # Setting up a Gitea code hosting platform
 
+forked from: https://git.theo-andreou.org/Personal/ansible-deploy-gitea
+
 Gitea is a self-hosted Git-based Code Hosting Platform and a nice alternative to Github and other proprietary services. You can use this Ansible Playbook to host your own Code Hosting Platform under your own control.
 
 This setup offers:
